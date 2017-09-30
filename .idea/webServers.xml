@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="0a2aa818-c186-4042-9b86-be09bf6fb470" name="numberniceic-gcloud" url="http://35.198.195.20">
+        <fileTransfer host="35.198.195.20" port="22" privateKey="$USER_HOME$/keySSH/id_rsa" rootFolder="/var/www/html" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
